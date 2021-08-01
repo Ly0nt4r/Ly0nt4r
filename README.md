@@ -26,3 +26,5 @@ Send me MP if you want to know my Social´s Media
 
 
 <img src= "https://img.shields.io/github/stars/Ly0nt4r/Ly0nt4r?style=social" > </img>
+<img src= "https://img.shields.io/github/watchers/Ly0nt4r/Ly0nt4r?logo=Ly0nt4r&style=social" > </img>
+<img src= "https://img.shields.io/github/followers/Ly0nt4r?style=social" > </img>
