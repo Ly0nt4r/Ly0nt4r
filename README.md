@@ -23,3 +23,6 @@
 ![twitter (1)](https://user-images.githubusercontent.com/87484792/127785297-8c6f8291-e109-4ae0-a536-c9ab739d97a4.png)
 </br>
 Send me MP if you want to know my Social´s Media
+
+
+<img src= "https://img.shields.io/github/stars/Ly0nt4r/Ly0nt4r?style=social" > </img>
