@@ -19,7 +19,9 @@
 
 
 ## Social Media
-![Lite](https://user-images.githubusercontent.com/87484792/127785192-14a3cee9-42c5-4a38-894d-26465f087318.jpg) --- Send me MP if you want to know my Social´s Media
+![Lite](https://user-images.githubusercontent.com/87484792/127785192-14a3cee9-42c5-4a38-894d-26465f087318.jpg) 
+</br>
+Send me MP if you want to know my Social´s Media
 
 </br> </br>
 
