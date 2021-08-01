@@ -18,6 +18,6 @@
 
 ## Social Media
 ![Lite](https://user-images.githubusercontent.com/87484792/127785192-14a3cee9-42c5-4a38-894d-26465f087318.jpg)
-![twitter](https://user-images.githubusercontent.com/87484792/127785248-123c79fc-451c-4b65-b931-858508324f8b.png)
+![twitter (1)](https://user-images.githubusercontent.com/87484792/127785297-8c6f8291-e109-4ae0-a536-c9ab739d97a4.png)
 </br>
 Send me MP if you want to know my Social´s Media
