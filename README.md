@@ -18,9 +18,6 @@
 ![certificate-13](https://user-images.githubusercontent.com/87484792/127784810-5bd71459-137b-421b-b07c-6332afd587b9.png) eLearnSecurity Junior Penetration Tester
 
 
-## Social Media
-![Lite](https://user-images.githubusercontent.com/87484792/127785192-14a3cee9-42c5-4a38-894d-26465f087318.jpg) 
-#### not available
 
 ## Analytic 
 <img src= "https://img.shields.io/github/stars/Ly0nt4r/Ly0nt4r?style=social" > </img>
