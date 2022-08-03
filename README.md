@@ -3,7 +3,6 @@
 
 #### I am a junior apprentice in pentesting  
 #### ❕❗ knowledge, discipline, perseverance, methodology ❗❕
-#### ☠💀 Root Me 💀☠
 
 ##  Certification and Skill
 #### Development
